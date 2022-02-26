@@ -1,4 +1,5 @@
 print("Hello World")
 print("OMG i did it the first attempt")
-
+print("Now i am going test the branch in Git hub")
+print("wrote some code in specific branch and want merge the things")
 print("After creating a branch, I would like to merge the file. to avoid the conflict i typing my code in 4th line")
